@@ -1,9 +1,11 @@
 <?php
 
-class Logout {
-	public function Logout(){
+class Logout
+{
+	public function __construct()
+	{
 		session_start();
 		session_destroy();
-		header('location: '. base_url . '/login');
+		header('location: ' . base_url . '/login');
 	}
 }

@@ -17,11 +17,13 @@
       <!-- Default box -->
       <div class="card">
         <div class="card-header">
-          <h3 class="card-title">Hello</h3>
+          <h3 class="card-title">Selamat datang dihalaman buku kita!
+          </h3>
         </div>
         <div class="card-body">
-          Selamat datang dihalaman buku kita!
+          <img src="<?= base_url; ?>/dist/img/halo.gif" alt="Halo" width="20%" height="20%">
         </div>
+
         <!-- /.card-body -->
         <div class="card-footer">
           Footer
@@ -34,4 +36,3 @@
     <!-- /.content -->
   </div>
   <!-- /.content-wrapper -->
-
