@@ -31,15 +31,15 @@
 
                   <ul class="list-group list-group-unbordered mb-3">
                       <li class="list-group-item">
-                          <strong><i class="fas fa-map-marker-alt mr-1"></i> Alamat</strong>
+                          <strong><i></i> Alamat</strong>
                           <a class="float-right"> Marabahan</a>
                       </li>
                       <li class="list-group-item">
-                          <strong><i class="fas fa-pencil-alt mr-1"></i> Skill</strong>
+                          <strong><i></i> Skill</strong>
                           <a class="float-right"> Digital Art, Illustration </a>
                       </li>
                       <li class="list-group-item">
-                          <strong><i class="fas fa-pencil-alt mr-1"></i> Website</strong>
+                          <strong><i></i> Website</strong>
                           <a class="float-right" href="gilacoding.com"> Arstation.com/ziyadrahmani </a>
                       </li>
                   </ul>
